@@ -34,14 +34,22 @@ class Config:
     def __init__(self):
         """ Constructor
         """
-        self.activitynames = ['Bed_Toilet_Transition', 'Go_To_Sleep', 'Sleep', 'Wake_Up',
-                              'Personal_Hygiene', 'Other_Activity', 'Bathe', 'Step_Out',
-                              'Morning_Meds', 'Cook_Breakfast', 'Eat_Breakfast',
-                              'Wash_Breakfast_Dishes', 'Dress', 'Toilet', 'Exercise', 'Watch_TV',
-                              'Leave_Home', 'Enter_Home', 'Work_At_Table', 'Evening_Meds',
-                              'Cook_Lunch', 'Eat_Lunch', 'Wash_Lunch_Dishes', 'Relax',
-                              'Cook_Dinner', 'Eat_Dinner', 'Wash_Dinner_Dishes', 'Read',
-                              'Sleep_Out_Of_Bed', 'Phone', 'Wash_Dishes', 'Cook', 'Eat']
+        self.activitynames = ['Sleep', 'Other_Activity', 'Bed_Toilet_Transition', 'Toilet',
+                                'Morning_Meds', 'Dress', 'Read', 'Cook_Breakfast', 'Eat_Breakfast',
+                                'Wash_Breakfast_Dishes', 'Relax', 'Sleep_Out_Of_Bed',
+                                'Personal_Hygiene', 'Take_Medicine', 'Work', 'Bathe', 'Groom',
+                                'Cook_Lunch', 'Eat_Lunch', 'Wash_Lunch_Dishes', 'Drink',
+                                'Watch_TV', 'Leave_Home', 'Enter_Home', 'Cook_Dinner',
+                                'Eat_Dinner', 'Wash_Dinner_Dishes', 'Work_At_Table', 'Cook', 'Eat',
+                                'Wash_Dishes', 'Phone', 'Step_Out', 'Entertain_Guests'] #hh102
+        # self.activitynames = ['Step_Out', 'Toilet', 'Phone', 'Personal_Hygiene', 'Leave_Home',
+        #                        'Enter_Home', 'Relax', 'Sleep_Out_Of_Bed', 'Drink', 'Watch_TV',
+        #                        'Dress', 'Evening_Meds', 'Wake_Up', 'Read', 'Morning_Meds',
+        #                        'Cook_Breakfast', 'Eat_Breakfast', 'Bathe', 'Cook_Lunch',
+        #                        'Eat_Lunch', 'Wash_Lunch_Dishes', 'Go_To_Sleep', 'Sleep',
+        #                        'Bed_Toilet_Transition', 'Wash_Breakfast_Dishes', 'Work_At_Table',
+        #                        'Groom', 'Cook', 'Eat', 'Cook_Dinner', 'Eat_Dinner',
+        #                        'Wash_Dinner_Dishes', 'Wash_Dishes', 'Entertain_Guests'] #hh101
         self.current_seconds_of_day = 0
         self.current_timestamp = 0
         self.day_of_week = 0
@@ -54,7 +62,10 @@ class Config:
                             'KitchenLight', 'LaundryRoom', 'LivingRoom', 'LivingRoomLight',
                             'LoungeChair', 'MedCabinet', 'Office', 'OfficeLight', 'OtherRoom',
                             'OutsideDoor', 'Refrigerator', 'Sink', 'Stove', 'TV', 'Toilet',
-                            'WorkArea', 'WorkAreaLight']
+                            'WorkArea', 'WorkAreaLight','Ignore']#hh102
+        # self.sensornames = ['OutsideDoor', 'Bathroom', 'LivingRoom', 'Kitchen', 'Bedroom',
+        #                     'DiningRoom', 'Entry', 'Bathroom', 'Chair', 'FrontDoor', 'Hall', 
+        #                     'Refrigerator', 'Bed']#hh101
         self.sensortimes = []
         self.data = []
         self.dstype = []

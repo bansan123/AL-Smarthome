@@ -95,10 +95,10 @@ def read_data():
         words = line.split()  # Split line into words separated by spaces
         date = words[0]
         stime = words[1]
-        sensorid = words[2]
-        newsensorid = words[3]
-        sensorstatus = words[4]
-        alabel = words[5]
+        sensorid = words[3]
+        newsensorid = words[4]
+        sensorstatus = words[5]
+        alabel = words[7]
         dt = get_datetime(date, stime)
         cf.current_seconds_of_day = compute_seconds(dt)
         cf.day_of_week = dt.weekday()
@@ -482,9 +482,9 @@ def annotate_data(filename):
         words = line.split()  # Split line into words on delimiter " "
         date = words[0]
         stime = words[1]
-        sensorid = words[2]
-        newsensorid = words[3]
-        sensorstatus = words[4]
+        sensorid = words[3]
+        newsensorid = words[4]
+        sensorstatus = words[5]
         dt = get_datetime(date, stime)
         cf.current_seconds_of_day = compute_seconds(dt)
         cf.day_of_week = dt.weekday()
@@ -510,6 +510,8 @@ def annotate_data(filename):
             fulldata.append(tempdata)
 
     predict_alabel = cf.clf.predict(fulldata)
+    # predict_prob = cf.clf.predict_proba(fulldata)
+    # print(predict_prob)
     datafile.close()
 
     datafile = open(filename, "r")
@@ -518,9 +520,9 @@ def annotate_data(filename):
         words = line.split()  # Split line into words on delimiter " "
         date = words[0]
         stime = words[1]
-        sensorid = words[2]
-        newsensorid = words[3]
-        sensorstatus = words[4]
+        sensorid = words[3]
+        newsensorid = words[4]
+        sensorstatus = words[5]
         if linenum < cf.max_window:
             aname = "Other_Activity"
         else:
