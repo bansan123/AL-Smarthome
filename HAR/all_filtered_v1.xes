@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This file has been generated with the OpenXES library. It conforms -->
+<!-- to the XML serialization of the XES standard for log storage and -->
+<!-- management. -->
+<!-- XES standard version: 1.0 -->
+<!-- OpenXES library version: 1.0RC7 -->
+<!-- OpenXES is available from http://www.openxes.org/ -->
+<log xes.version="1.0" xes.features="nested-attributes" openxes.version="1.0RC7">
+	<string key="origin" value="csv"/>
+	<string key="concept:name" value="Anonymous log imported from hh102_exported_all.xes"/>
+	<trace>
+		<string key="concept:name" value="2011-7-4"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-04 03:17:17"/>
+			<int key="@@index" value="954"/>
+			<string key="duration" value="0 days 03:17:17"/>
+			<string key="starttime" value="2011-07-04 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-04T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-04 03:20:49"/>
+			<int key="@@index" value="955"/>
+			<string key="duration" value="0 days 00:03:08"/>
+			<string key="starttime" value="2011-07-04 03:17:41"/>
+			<date key="time:timestamp" value="2011-07-04T03:17:41.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-04 07:02:11"/>
+			<int key="@@index" value="956"/>
+			<string key="duration" value="0 days 03:41:10"/>
+			<string key="starttime" value="2011-07-04 03:21:01"/>
+			<date key="time:timestamp" value="2011-07-04T03:21:01.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-20"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-20 04:42:35"/>
+			<int key="@@index" value="265"/>
+			<string key="duration" value="0 days 04:41:07"/>
+			<string key="starttime" value="2011-06-20 00:01:28"/>
+			<date key="time:timestamp" value="2011-06-20T00:01:28.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-20 04:47:06"/>
+			<int key="@@index" value="266"/>
+			<string key="duration" value="0 days 00:04:06"/>
+			<string key="starttime" value="2011-06-20 04:43:00"/>
+			<date key="time:timestamp" value="2011-06-20T04:43:00.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-20 23:59:59"/>
+			<int key="@@index" value="313"/>
+			<string key="duration" value="0 days 02:11:25"/>
+			<string key="starttime" value="2011-06-20 21:48:34"/>
+			<date key="time:timestamp" value="2011-06-20T21:48:34.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-20"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-20 04:15:28"/>
+			<int key="@@index" value="1694"/>
+			<string key="duration" value="0 days 04:15:28"/>
+			<string key="starttime" value="2011-07-20 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-20T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-20 04:19:15"/>
+			<int key="@@index" value="1695"/>
+			<string key="duration" value="0 days 00:03:14"/>
+			<string key="starttime" value="2011-07-20 04:16:01"/>
+			<date key="time:timestamp" value="2011-07-20T04:16:01.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-20 08:54:09"/>
+			<int key="@@index" value="1696"/>
+			<string key="duration" value="0 days 04:34:36"/>
+			<string key="starttime" value="2011-07-20 04:19:33"/>
+			<date key="time:timestamp" value="2011-07-20T04:19:33.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-7"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-07 04:05:55"/>
+			<int key="@@index" value="2707"/>
+			<string key="duration" value="0 days 04:05:55"/>
+			<string key="starttime" value="2011-08-07 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-07T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-07 04:09:40"/>
+			<int key="@@index" value="2708"/>
+			<string key="duration" value="0 days 00:02:54"/>
+			<string key="starttime" value="2011-08-07 04:06:46"/>
+			<date key="time:timestamp" value="2011-08-07T04:06:46.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-07 08:03:57"/>
+			<int key="@@index" value="2709"/>
+			<string key="duration" value="0 days 03:53:59"/>
+			<string key="starttime" value="2011-08-07 04:09:58"/>
+			<date key="time:timestamp" value="2011-08-07T04:09:58.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-10"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-10 02:09:08"/>
+			<int key="@@index" value="1287"/>
+			<string key="duration" value="0 days 02:09:08"/>
+			<string key="starttime" value="2011-07-10 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-10T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-10 02:12:44"/>
+			<int key="@@index" value="1288"/>
+			<string key="duration" value="0 days 00:03:07"/>
+			<string key="starttime" value="2011-07-10 02:09:37"/>
+			<date key="time:timestamp" value="2011-07-10T02:09:37.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-10 04:20:29"/>
+			<int key="@@index" value="1289"/>
+			<string key="duration" value="0 days 02:07:30"/>
+			<string key="starttime" value="2011-07-10 02:12:59"/>
+			<date key="time:timestamp" value="2011-07-10T02:12:59.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-22"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-22 04:02:43"/>
+			<int key="@@index" value="1801"/>
+			<string key="duration" value="0 days 04:02:43"/>
+			<string key="starttime" value="2011-07-22 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-22T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-22 04:05:41"/>
+			<int key="@@index" value="1802"/>
+			<string key="duration" value="0 days 00:02:16"/>
+			<string key="starttime" value="2011-07-22 04:03:25"/>
+			<date key="time:timestamp" value="2011-07-22T04:03:25.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-22 08:21:01"/>
+			<int key="@@index" value="1803"/>
+			<string key="duration" value="0 days 04:15:05"/>
+			<string key="starttime" value="2011-07-22 04:05:56"/>
+			<date key="time:timestamp" value="2011-07-22T04:05:56.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-3"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-03 06:31:41"/>
+			<int key="@@index" value="896"/>
+			<string key="duration" value="0 days 06:31:41"/>
+			<string key="starttime" value="2011-07-03 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-03T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-03 06:36:19"/>
+			<int key="@@index" value="897"/>
+			<string key="duration" value="0 days 00:04:10"/>
+			<string key="starttime" value="2011-07-03 06:32:09"/>
+			<date key="time:timestamp" value="2011-07-03T06:32:09.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-03 08:30:34"/>
+			<int key="@@index" value="898"/>
+			<string key="duration" value="0 days 01:53:55"/>
+			<string key="starttime" value="2011-07-03 06:36:39"/>
+			<date key="time:timestamp" value="2011-07-03T06:36:39.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-8"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-08 04:36:08"/>
+			<int key="@@index" value="1188"/>
+			<string key="duration" value="0 days 04:36:08"/>
+			<string key="starttime" value="2011-07-08 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-08T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-08 04:39:33"/>
+			<int key="@@index" value="1189"/>
+			<string key="duration" value="0 days 00:02:55"/>
+			<string key="starttime" value="2011-07-08 04:36:38"/>
+			<date key="time:timestamp" value="2011-07-08T04:36:38.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-08 08:30:47"/>
+			<int key="@@index" value="1190"/>
+			<string key="duration" value="0 days 03:50:55"/>
+			<string key="starttime" value="2011-07-08 04:39:52"/>
+			<date key="time:timestamp" value="2011-07-08T04:39:52.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-6"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-06 04:58:30"/>
+			<int key="@@index" value="2650"/>
+			<string key="duration" value="0 days 04:58:30"/>
+			<string key="starttime" value="2011-08-06 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-06T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-06 05:02:01"/>
+			<int key="@@index" value="2651"/>
+			<string key="duration" value="0 days 00:02:47"/>
+			<string key="starttime" value="2011-08-06 04:59:14"/>
+			<date key="time:timestamp" value="2011-08-06T04:59:14.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-06 08:20:37"/>
+			<int key="@@index" value="2652"/>
+			<string key="duration" value="0 days 03:14:52"/>
+			<string key="starttime" value="2011-08-06 05:05:45"/>
+			<date key="time:timestamp" value="2011-08-06T05:05:45.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-6"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-06 04:37:04"/>
+			<int key="@@index" value="1067"/>
+			<string key="duration" value="0 days 04:37:04"/>
+			<string key="starttime" value="2011-07-06 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-06T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-06 04:40:17"/>
+			<int key="@@index" value="1068"/>
+			<string key="duration" value="0 days 00:02:35"/>
+			<string key="starttime" value="2011-07-06 04:37:42"/>
+			<date key="time:timestamp" value="2011-07-06T04:37:42.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-06 08:11:31"/>
+			<int key="@@index" value="1069"/>
+			<string key="duration" value="0 days 03:31:05"/>
+			<string key="starttime" value="2011-07-06 04:40:26"/>
+			<date key="time:timestamp" value="2011-07-06T04:40:26.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-1"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-01 01:11:11"/>
+			<int key="@@index" value="2342"/>
+			<string key="duration" value="0 days 01:11:11"/>
+			<string key="starttime" value="2011-08-01 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-01T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-01 06:06:54"/>
+			<int key="@@index" value="2348"/>
+			<string key="duration" value="0 days 00:02:39"/>
+			<string key="starttime" value="2011-08-01 06:04:15"/>
+			<date key="time:timestamp" value="2011-08-01T06:04:15.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-01 09:05:30"/>
+			<int key="@@index" value="2349"/>
+			<string key="duration" value="0 days 02:57:26"/>
+			<string key="starttime" value="2011-08-01 06:08:04"/>
+			<date key="time:timestamp" value="2011-08-01T06:08:04.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-21"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-21 05:59:59"/>
+			<int key="@@index" value="1745"/>
+			<string key="duration" value="0 days 04:16:48"/>
+			<string key="starttime" value="2011-07-21 01:43:11"/>
+			<date key="time:timestamp" value="2011-07-21T01:43:11.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-21 06:03:27"/>
+			<int key="@@index" value="1746"/>
+			<string key="duration" value="0 days 00:03:02"/>
+			<string key="starttime" value="2011-07-21 06:00:25"/>
+			<date key="time:timestamp" value="2011-07-21T06:00:25.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-21 07:31:35"/>
+			<int key="@@index" value="1747"/>
+			<string key="duration" value="0 days 01:28:00"/>
+			<string key="starttime" value="2011-07-21 06:03:35"/>
+			<date key="time:timestamp" value="2011-07-21T06:03:35.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-13"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-13 07:24:09"/>
+			<int key="@@index" value="1318"/>
+			<string key="duration" value="0 days 07:24:09"/>
+			<string key="starttime" value="2011-07-13 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-13T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-13 07:27:24"/>
+			<int key="@@index" value="1319"/>
+			<string key="duration" value="0 days 00:03:04"/>
+			<string key="starttime" value="2011-07-13 07:24:20"/>
+			<date key="time:timestamp" value="2011-07-13T07:24:20.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-13 10:10:49"/>
+			<int key="@@index" value="1320"/>
+			<string key="duration" value="0 days 02:43:10"/>
+			<string key="starttime" value="2011-07-13 07:27:39"/>
+			<date key="time:timestamp" value="2011-07-13T07:27:39.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-15"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-15 03:37:47"/>
+			<int key="@@index" value="0"/>
+			<string key="duration" value="0 days 03:31:15"/>
+			<string key="starttime" value="2011-06-15 00:06:32"/>
+			<date key="time:timestamp" value="2011-06-15T00:06:32.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-15 03:41:22"/>
+			<int key="@@index" value="1"/>
+			<string key="duration" value="0 days 00:02:38"/>
+			<string key="starttime" value="2011-06-15 03:38:44"/>
+			<date key="time:timestamp" value="2011-06-15T03:38:44.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-15 08:45:56"/>
+			<int key="@@index" value="2"/>
+			<string key="duration" value="0 days 05:01:06"/>
+			<string key="starttime" value="2011-06-15 03:44:50"/>
+			<date key="time:timestamp" value="2011-06-15T03:44:50.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-22"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-22 03:04:20"/>
+			<int key="@@index" value="354"/>
+			<string key="duration" value="0 days 03:04:20"/>
+			<string key="starttime" value="2011-06-22 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-22T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-22 03:08:00"/>
+			<int key="@@index" value="355"/>
+			<string key="duration" value="0 days 00:03:00"/>
+			<string key="starttime" value="2011-06-22 03:05:00"/>
+			<date key="time:timestamp" value="2011-06-22T03:05:00.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-22 06:54:26"/>
+			<int key="@@index" value="356"/>
+			<string key="duration" value="0 days 03:46:13"/>
+			<string key="starttime" value="2011-06-22 03:08:13"/>
+			<date key="time:timestamp" value="2011-06-22T03:08:13.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-5"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-05 05:09:53"/>
+			<int key="@@index" value="2583"/>
+			<string key="duration" value="0 days 05:09:53"/>
+			<string key="starttime" value="2011-08-05 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-05T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-05 05:13:11"/>
+			<int key="@@index" value="2584"/>
+			<string key="duration" value="0 days 00:02:48"/>
+			<string key="starttime" value="2011-08-05 05:10:23"/>
+			<date key="time:timestamp" value="2011-08-05T05:10:23.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-05 08:34:02"/>
+			<int key="@@index" value="2585"/>
+			<string key="duration" value="0 days 03:20:28"/>
+			<string key="starttime" value="2011-08-05 05:13:34"/>
+			<date key="time:timestamp" value="2011-08-05T05:13:34.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-26"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-26 01:43:42"/>
+			<int key="@@index" value="2021"/>
+			<string key="duration" value="0 days 01:43:42"/>
+			<string key="starttime" value="2011-07-26 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-26T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-26 01:47:38"/>
+			<int key="@@index" value="2022"/>
+			<string key="duration" value="0 days 00:03:27"/>
+			<string key="starttime" value="2011-07-26 01:44:11"/>
+			<date key="time:timestamp" value="2011-07-26T01:44:11.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-26 02:50:17"/>
+			<int key="@@index" value="2023"/>
+			<string key="duration" value="0 days 01:02:12"/>
+			<string key="starttime" value="2011-07-26 01:48:05"/>
+			<date key="time:timestamp" value="2011-07-26T01:48:05.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-27"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-27 04:20:41"/>
+			<int key="@@index" value="585"/>
+			<string key="duration" value="0 days 04:20:41"/>
+			<string key="starttime" value="2011-06-27 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-27T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-27 04:23:50"/>
+			<int key="@@index" value="586"/>
+			<string key="duration" value="0 days 00:02:43"/>
+			<string key="starttime" value="2011-06-27 04:21:07"/>
+			<date key="time:timestamp" value="2011-06-27T04:21:07.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-27 08:05:36"/>
+			<int key="@@index" value="587"/>
+			<string key="duration" value="0 days 03:41:05"/>
+			<string key="starttime" value="2011-06-27 04:24:31"/>
+			<date key="time:timestamp" value="2011-06-27T04:24:31.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-23"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-23 04:58:07"/>
+			<int key="@@index" value="1860"/>
+			<string key="duration" value="0 days 04:58:07"/>
+			<string key="starttime" value="2011-07-23 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-23T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-23 05:01:46"/>
+			<int key="@@index" value="1861"/>
+			<string key="duration" value="0 days 00:02:53"/>
+			<string key="starttime" value="2011-07-23 04:58:53"/>
+			<date key="time:timestamp" value="2011-07-23T04:58:53.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-23 09:26:02"/>
+			<int key="@@index" value="1862"/>
+			<string key="duration" value="0 days 04:23:58"/>
+			<string key="starttime" value="2011-07-23 05:02:04"/>
+			<date key="time:timestamp" value="2011-07-23T05:02:04.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-25"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-25 02:41:44"/>
+			<int key="@@index" value="493"/>
+			<string key="duration" value="0 days 02:41:44"/>
+			<string key="starttime" value="2011-06-25 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-25T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-25 02:45:00"/>
+			<int key="@@index" value="494"/>
+			<string key="duration" value="0 days 00:03:02"/>
+			<string key="starttime" value="2011-06-25 02:41:58"/>
+			<date key="time:timestamp" value="2011-06-25T02:41:58.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-25 09:14:59"/>
+			<int key="@@index" value="495"/>
+			<string key="duration" value="0 days 06:29:51"/>
+			<string key="starttime" value="2011-06-25 02:45:08"/>
+			<date key="time:timestamp" value="2011-06-25T02:45:08.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-18"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-18 02:46:42"/>
+			<int key="@@index" value="1594"/>
+			<string key="duration" value="0 days 02:46:42"/>
+			<string key="starttime" value="2011-07-18 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-18T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-18 02:48:54"/>
+			<int key="@@index" value="1595"/>
+			<string key="duration" value="0 days 00:01:52"/>
+			<string key="starttime" value="2011-07-18 02:47:02"/>
+			<date key="time:timestamp" value="2011-07-18T02:47:02.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-18 07:40:49"/>
+			<int key="@@index" value="1596"/>
+			<string key="duration" value="0 days 04:51:48"/>
+			<string key="starttime" value="2011-07-18 02:49:01"/>
+			<date key="time:timestamp" value="2011-07-18T02:49:01.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-17"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-17 05:12:12"/>
+			<int key="@@index" value="1538"/>
+			<string key="duration" value="0 days 05:12:12"/>
+			<string key="starttime" value="2011-07-17 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-17T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-17 05:16:23"/>
+			<int key="@@index" value="1539"/>
+			<string key="duration" value="0 days 00:03:36"/>
+			<string key="starttime" value="2011-07-17 05:12:47"/>
+			<date key="time:timestamp" value="2011-07-17T05:12:47.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-17 09:00:57"/>
+			<int key="@@index" value="1540"/>
+			<string key="duration" value="0 days 03:44:26"/>
+			<string key="starttime" value="2011-07-17 05:16:31"/>
+			<date key="time:timestamp" value="2011-07-17T05:16:31.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-24"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-24 04:10:07"/>
+			<int key="@@index" value="1913"/>
+			<string key="duration" value="0 days 04:10:07"/>
+			<string key="starttime" value="2011-07-24 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-24T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-24 04:16:55"/>
+			<int key="@@index" value="1914"/>
+			<string key="duration" value="0 days 00:05:23"/>
+			<string key="starttime" value="2011-07-24 04:11:32"/>
+			<date key="time:timestamp" value="2011-07-24T04:11:32.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-24 07:17:51"/>
+			<int key="@@index" value="1915"/>
+			<string key="duration" value="0 days 02:59:28"/>
+			<string key="starttime" value="2011-07-24 04:18:23"/>
+			<date key="time:timestamp" value="2011-07-24T04:18:23.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-31"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-31 04:59:03"/>
+			<int key="@@index" value="2300"/>
+			<string key="duration" value="0 days 04:59:03"/>
+			<string key="starttime" value="2011-07-31 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-31T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-31 05:02:00"/>
+			<int key="@@index" value="2301"/>
+			<string key="duration" value="0 days 00:02:39"/>
+			<string key="starttime" value="2011-07-31 04:59:21"/>
+			<date key="time:timestamp" value="2011-07-31T04:59:21.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-31 09:02:03"/>
+			<int key="@@index" value="2302"/>
+			<string key="duration" value="0 days 03:59:44"/>
+			<string key="starttime" value="2011-07-31 05:02:19"/>
+			<date key="time:timestamp" value="2011-07-31T05:02:19.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-3"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-03 03:37:45"/>
+			<int key="@@index" value="2455"/>
+			<string key="duration" value="0 days 03:37:45"/>
+			<string key="starttime" value="2011-08-03 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-03T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-03 03:41:10"/>
+			<int key="@@index" value="2456"/>
+			<string key="duration" value="0 days 00:03:06"/>
+			<string key="starttime" value="2011-08-03 03:38:04"/>
+			<date key="time:timestamp" value="2011-08-03T03:38:04.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-03 07:29:10"/>
+			<int key="@@index" value="2457"/>
+			<string key="duration" value="0 days 03:47:43"/>
+			<string key="starttime" value="2011-08-03 03:41:27"/>
+			<date key="time:timestamp" value="2011-08-03T03:41:27.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-2"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-02 04:09:44"/>
+			<int key="@@index" value="2403"/>
+			<string key="duration" value="0 days 04:09:44"/>
+			<string key="starttime" value="2011-08-02 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-02T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-02 04:13:38"/>
+			<int key="@@index" value="2404"/>
+			<string key="duration" value="0 days 00:03:28"/>
+			<string key="starttime" value="2011-08-02 04:10:10"/>
+			<date key="time:timestamp" value="2011-08-02T04:10:10.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-08-02 09:09:04"/>
+			<int key="@@index" value="2405"/>
+			<string key="duration" value="0 days 04:55:13"/>
+			<string key="starttime" value="2011-08-02 04:13:51"/>
+			<date key="time:timestamp" value="2011-08-02T04:13:51.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-16"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-16 06:13:47"/>
+			<int key="@@index" value="1473"/>
+			<string key="duration" value="0 days 05:57:38"/>
+			<string key="starttime" value="2011-07-16 00:16:09"/>
+			<date key="time:timestamp" value="2011-07-16T00:16:09.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-16 06:16:42"/>
+			<int key="@@index" value="1474"/>
+			<string key="duration" value="0 days 00:02:22"/>
+			<string key="starttime" value="2011-07-16 06:14:20"/>
+			<date key="time:timestamp" value="2011-07-16T06:14:20.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-16 09:02:24"/>
+			<int key="@@index" value="1475"/>
+			<string key="duration" value="0 days 02:40:15"/>
+			<string key="starttime" value="2011-07-16 06:22:09"/>
+			<date key="time:timestamp" value="2011-07-16T06:22:09.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-13"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-13 23:59:59"/>
+			<int key="@@index" value="2767"/>
+			<string key="duration" value="0 days 02:56:32"/>
+			<string key="starttime" value="2011-08-13 21:03:27"/>
+			<date key="time:timestamp" value="2011-08-13T21:03:27.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-12"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-12 23:59:59"/>
+			<int key="@@index" value="1317"/>
+			<string key="duration" value="0 days 00:26:02"/>
+			<string key="starttime" value="2011-07-12 23:33:57"/>
+			<date key="time:timestamp" value="2011-07-12T23:33:57.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-14"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-14 07:21:30"/>
+			<int key="@@index" value="1371"/>
+			<string key="duration" value="0 days 07:21:30"/>
+			<string key="starttime" value="2011-07-14 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-14T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-19"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-06-19 07:35:35"/>
+			<int key="@@index" value="206"/>
+			<string key="duration" value="0 days 07:35:35"/>
+			<string key="starttime" value="2011-06-19 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-19T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-28"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-28 07:59:39"/>
+			<int key="@@index" value="2125"/>
+			<string key="duration" value="0 days 07:59:39"/>
+			<string key="starttime" value="2011-07-28 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-28T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-26"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-26 07:50:05"/>
+			<int key="@@index" value="543"/>
+			<string key="duration" value="0 days 07:50:05"/>
+			<string key="starttime" value="2011-06-26 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-26T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-4"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-04 07:05:44"/>
+			<int key="@@index" value="2518"/>
+			<string key="duration" value="0 days 07:05:44"/>
+			<string key="starttime" value="2011-08-04 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-04T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-1"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-01 08:03:16"/>
+			<int key="@@index" value="811"/>
+			<string key="duration" value="0 days 08:03:16"/>
+			<string key="starttime" value="2011-07-01 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-01T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-23"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-23 08:00:32"/>
+			<int key="@@index" value="406"/>
+			<string key="duration" value="0 days 08:00:32"/>
+			<string key="starttime" value="2011-06-23 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-23T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-25"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-25 09:10:55"/>
+			<int key="@@index" value="1968"/>
+			<string key="duration" value="0 days 09:10:55"/>
+			<string key="starttime" value="2011-07-25 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-25T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-9"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-09 06:55:01"/>
+			<int key="@@index" value="1227"/>
+			<string key="duration" value="0 days 06:55:01"/>
+			<string key="starttime" value="2011-07-09 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-09T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-16"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-16 07:00:26"/>
+			<int key="@@index" value="52"/>
+			<string key="duration" value="0 days 07:00:26"/>
+			<string key="starttime" value="2011-06-16 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-16T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-5"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-05 06:57:18"/>
+			<int key="@@index" value="1010"/>
+			<string key="duration" value="0 days 06:57:18"/>
+			<string key="starttime" value="2011-07-05 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-05T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-05 07:01:21"/>
+			<int key="@@index" value="1011"/>
+			<string key="duration" value="0 days 00:03:13"/>
+			<string key="starttime" value="2011-07-05 06:58:08"/>
+			<date key="time:timestamp" value="2011-07-05T06:58:08.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-05 07:02:40"/>
+			<int key="@@index" value="1012"/>
+			<string key="duration" value="0 days 00:00:49"/>
+			<string key="starttime" value="2011-07-05 07:01:51"/>
+			<date key="time:timestamp" value="2011-07-05T07:01:51.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-05 08:25:50"/>
+			<int key="@@index" value="1013"/>
+			<string key="duration" value="0 days 01:21:44"/>
+			<string key="starttime" value="2011-07-05 07:04:06"/>
+			<date key="time:timestamp" value="2011-07-05T07:04:06.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-05 10:49:58"/>
+			<int key="@@index" value="1014"/>
+			<string key="duration" value="0 days 02:24:07"/>
+			<string key="starttime" value="2011-07-05 08:25:51"/>
+			<date key="time:timestamp" value="2011-07-05T08:25:51.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-15"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-15 07:26:42"/>
+			<int key="@@index" value="1433"/>
+			<string key="duration" value="0 days 07:26:42"/>
+			<string key="starttime" value="2011-07-15 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-15T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-15 07:30:14"/>
+			<int key="@@index" value="1434"/>
+			<string key="duration" value="0 days 00:02:45"/>
+			<string key="starttime" value="2011-07-15 07:27:29"/>
+			<date key="time:timestamp" value="2011-07-15T07:27:29.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-15 07:31:09"/>
+			<int key="@@index" value="1435"/>
+			<string key="duration" value="0 days 00:00:52"/>
+			<string key="starttime" value="2011-07-15 07:30:17"/>
+			<date key="time:timestamp" value="2011-07-15T07:30:17.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-15 08:26:11"/>
+			<int key="@@index" value="1436"/>
+			<string key="duration" value="0 days 00:53:16"/>
+			<string key="starttime" value="2011-07-15 07:32:55"/>
+			<date key="time:timestamp" value="2011-07-15T07:32:55.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-15 10:00:59"/>
+			<int key="@@index" value="1437"/>
+			<string key="duration" value="0 days 01:34:47"/>
+			<string key="starttime" value="2011-07-15 08:26:12"/>
+			<date key="time:timestamp" value="2011-07-15T08:26:12.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-2"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-02 08:12:32"/>
+			<int key="@@index" value="860"/>
+			<string key="duration" value="0 days 08:12:32"/>
+			<string key="starttime" value="2011-07-02 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-02T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-02 08:15:06"/>
+			<int key="@@index" value="861"/>
+			<string key="duration" value="0 days 00:02:09"/>
+			<string key="starttime" value="2011-07-02 08:12:57"/>
+			<date key="time:timestamp" value="2011-07-02T08:12:57.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-02 08:16:03"/>
+			<int key="@@index" value="862"/>
+			<string key="duration" value="0 days 00:00:53"/>
+			<string key="starttime" value="2011-07-02 08:15:10"/>
+			<date key="time:timestamp" value="2011-07-02T08:15:10.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-02 09:08:46"/>
+			<int key="@@index" value="863"/>
+			<string key="duration" value="0 days 00:50:50"/>
+			<string key="starttime" value="2011-07-02 08:17:56"/>
+			<date key="time:timestamp" value="2011-07-02T08:17:56.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-02 11:31:47"/>
+			<int key="@@index" value="864"/>
+			<string key="duration" value="0 days 02:22:59"/>
+			<string key="starttime" value="2011-07-02 09:08:48"/>
+			<date key="time:timestamp" value="2011-07-02T09:08:48.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-30"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-30 06:33:02"/>
+			<int key="@@index" value="2243"/>
+			<string key="duration" value="0 days 06:33:02"/>
+			<string key="starttime" value="2011-07-30 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-30T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-30 06:34:37"/>
+			<int key="@@index" value="2244"/>
+			<string key="duration" value="0 days 00:00:57"/>
+			<string key="starttime" value="2011-07-30 06:33:40"/>
+			<date key="time:timestamp" value="2011-07-30T06:33:40.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-30 06:38:11"/>
+			<int key="@@index" value="2245"/>
+			<string key="duration" value="0 days 00:00:51"/>
+			<string key="starttime" value="2011-07-30 06:37:20"/>
+			<date key="time:timestamp" value="2011-07-30T06:37:20.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-30 07:21:28"/>
+			<int key="@@index" value="2246"/>
+			<string key="duration" value="0 days 00:41:29"/>
+			<string key="starttime" value="2011-07-30 06:39:59"/>
+			<date key="time:timestamp" value="2011-07-30T06:39:59.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-30 10:29:36"/>
+			<int key="@@index" value="2247"/>
+			<string key="duration" value="0 days 02:51:52"/>
+			<string key="starttime" value="2011-07-30 07:37:44"/>
+			<date key="time:timestamp" value="2011-07-30T07:37:44.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-18"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-18 07:33:28"/>
+			<int key="@@index" value="152"/>
+			<string key="duration" value="0 days 07:33:28"/>
+			<string key="starttime" value="2011-06-18 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-18T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-18 07:37:33"/>
+			<int key="@@index" value="153"/>
+			<string key="duration" value="0 days 00:02:29"/>
+			<string key="starttime" value="2011-06-18 07:35:04"/>
+			<date key="time:timestamp" value="2011-06-18T07:35:04.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-18 07:39:15"/>
+			<int key="@@index" value="154"/>
+			<string key="duration" value="0 days 00:00:32"/>
+			<string key="starttime" value="2011-06-18 07:38:43"/>
+			<date key="time:timestamp" value="2011-06-18T07:38:43.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-18 08:53:11"/>
+			<int key="@@index" value="155"/>
+			<string key="duration" value="0 days 01:11:29"/>
+			<string key="starttime" value="2011-06-18 07:41:42"/>
+			<date key="time:timestamp" value="2011-06-18T07:41:42.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-18 11:16:53"/>
+			<int key="@@index" value="156"/>
+			<string key="duration" value="0 days 02:23:41"/>
+			<string key="starttime" value="2011-06-18 08:53:12"/>
+			<date key="time:timestamp" value="2011-06-18T08:53:12.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-27"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-27 08:10:43"/>
+			<int key="@@index" value="2068"/>
+			<string key="duration" value="0 days 08:10:43"/>
+			<string key="starttime" value="2011-07-27 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-27T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-27 08:14:48"/>
+			<int key="@@index" value="2069"/>
+			<string key="duration" value="0 days 00:03:20"/>
+			<string key="starttime" value="2011-07-27 08:11:28"/>
+			<date key="time:timestamp" value="2011-07-27T08:11:28.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-27 08:15:50"/>
+			<int key="@@index" value="2070"/>
+			<string key="duration" value="0 days 00:00:55"/>
+			<string key="starttime" value="2011-07-27 08:14:55"/>
+			<date key="time:timestamp" value="2011-07-27T08:14:55.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-27 08:55:41"/>
+			<int key="@@index" value="2071"/>
+			<string key="duration" value="0 days 00:38:28"/>
+			<string key="starttime" value="2011-07-27 08:17:13"/>
+			<date key="time:timestamp" value="2011-07-27T08:17:13.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-27 10:00:03"/>
+			<int key="@@index" value="2072"/>
+			<string key="duration" value="0 days 01:04:19"/>
+			<string key="starttime" value="2011-07-27 08:55:44"/>
+			<date key="time:timestamp" value="2011-07-27T08:55:44.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-19"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-19 07:13:47"/>
+			<int key="@@index" value="1649"/>
+			<string key="duration" value="0 days 07:13:47"/>
+			<string key="starttime" value="2011-07-19 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-19T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-19 07:19:02"/>
+			<int key="@@index" value="1650"/>
+			<string key="duration" value="0 days 00:03:58"/>
+			<string key="starttime" value="2011-07-19 07:15:04"/>
+			<date key="time:timestamp" value="2011-07-19T07:15:04.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-19 07:20:15"/>
+			<int key="@@index" value="1651"/>
+			<string key="duration" value="0 days 00:00:40"/>
+			<string key="starttime" value="2011-07-19 07:19:35"/>
+			<date key="time:timestamp" value="2011-07-19T07:19:35.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-19 08:19:37"/>
+			<int key="@@index" value="1652"/>
+			<string key="duration" value="0 days 00:57:20"/>
+			<string key="starttime" value="2011-07-19 07:22:17"/>
+			<date key="time:timestamp" value="2011-07-19T07:22:17.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-19 10:52:44"/>
+			<int key="@@index" value="1653"/>
+			<string key="duration" value="0 days 02:31:12"/>
+			<string key="starttime" value="2011-07-19 08:21:32"/>
+			<date key="time:timestamp" value="2011-07-19T08:21:32.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-15"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-08-15 02:36:49"/>
+			<int key="@@index" value="2838"/>
+			<string key="duration" value="0 days 02:36:49"/>
+			<string key="starttime" value="2011-08-15 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-15T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-15 02:40:07"/>
+			<int key="@@index" value="2839"/>
+			<string key="duration" value="0 days 00:03:00"/>
+			<string key="starttime" value="2011-08-15 02:37:07"/>
+			<date key="time:timestamp" value="2011-08-15T02:37:07.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-15 06:37:59"/>
+			<int key="@@index" value="2840"/>
+			<string key="duration" value="0 days 03:57:39"/>
+			<string key="starttime" value="2011-08-15 02:40:20"/>
+			<date key="time:timestamp" value="2011-08-15T02:40:20.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-15 06:41:10"/>
+			<int key="@@index" value="2841"/>
+			<string key="duration" value="0 days 00:02:50"/>
+			<string key="starttime" value="2011-08-15 06:38:20"/>
+			<date key="time:timestamp" value="2011-08-15T06:38:20.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-08-15 09:17:11"/>
+			<int key="@@index" value="2842"/>
+			<string key="duration" value="0 days 02:35:52"/>
+			<string key="starttime" value="2011-08-15 06:41:19"/>
+			<date key="time:timestamp" value="2011-08-15T06:41:19.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-29"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-29 03:30:23"/>
+			<int key="@@index" value="2183"/>
+			<string key="duration" value="0 days 03:30:23"/>
+			<string key="starttime" value="2011-07-29 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-29T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-29 03:33:46"/>
+			<int key="@@index" value="2184"/>
+			<string key="duration" value="0 days 00:02:57"/>
+			<string key="starttime" value="2011-07-29 03:30:49"/>
+			<date key="time:timestamp" value="2011-07-29T03:30:49.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-29 06:23:32"/>
+			<int key="@@index" value="2185"/>
+			<string key="duration" value="0 days 02:49:26"/>
+			<string key="starttime" value="2011-07-29 03:34:06"/>
+			<date key="time:timestamp" value="2011-07-29T03:34:06.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-29 06:26:33"/>
+			<int key="@@index" value="2186"/>
+			<string key="duration" value="0 days 00:02:16"/>
+			<string key="starttime" value="2011-07-29 06:24:17"/>
+			<date key="time:timestamp" value="2011-07-29T06:24:17.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-29 08:43:51"/>
+			<int key="@@index" value="2187"/>
+			<string key="duration" value="0 days 02:17:08"/>
+			<string key="starttime" value="2011-07-29 06:26:43"/>
+			<date key="time:timestamp" value="2011-07-29T06:26:43.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-8-14"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-14 02:39:31"/>
+			<int key="@@index" value="2768"/>
+			<string key="duration" value="0 days 02:39:31"/>
+			<string key="starttime" value="2011-08-14 00:00:00"/>
+			<date key="time:timestamp" value="2011-08-14T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-14 02:42:42"/>
+			<int key="@@index" value="2769"/>
+			<string key="duration" value="0 days 00:02:46"/>
+			<string key="starttime" value="2011-08-14 02:39:56"/>
+			<date key="time:timestamp" value="2011-08-14T02:39:56.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-08-14 06:12:00"/>
+			<int key="@@index" value="2770"/>
+			<string key="duration" value="0 days 03:29:07"/>
+			<string key="starttime" value="2011-08-14 02:42:53"/>
+			<date key="time:timestamp" value="2011-08-14T02:42:53.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-08-14 06:15:03"/>
+			<int key="@@index" value="2771"/>
+			<string key="duration" value="0 days 00:02:27"/>
+			<string key="starttime" value="2011-08-14 06:12:36"/>
+			<date key="time:timestamp" value="2011-08-14T06:12:36.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-08-14 08:11:40"/>
+			<int key="@@index" value="2772"/>
+			<string key="duration" value="0 days 01:56:29"/>
+			<string key="starttime" value="2011-08-14 06:15:11"/>
+			<date key="time:timestamp" value="2011-08-14T06:15:11.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-28"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-06-28 02:40:56"/>
+			<int key="@@index" value="655"/>
+			<string key="duration" value="0 days 02:40:56"/>
+			<string key="starttime" value="2011-06-28 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-28T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-28 02:44:58"/>
+			<int key="@@index" value="656"/>
+			<string key="duration" value="0 days 00:03:47"/>
+			<string key="starttime" value="2011-06-28 02:41:11"/>
+			<date key="time:timestamp" value="2011-06-28T02:41:11.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-28 05:48:30"/>
+			<int key="@@index" value="657"/>
+			<string key="duration" value="0 days 03:03:20"/>
+			<string key="starttime" value="2011-06-28 02:45:10"/>
+			<date key="time:timestamp" value="2011-06-28T02:45:10.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-28 05:52:18"/>
+			<int key="@@index" value="658"/>
+			<string key="duration" value="0 days 00:03:07"/>
+			<string key="starttime" value="2011-06-28 05:49:11"/>
+			<date key="time:timestamp" value="2011-06-28T05:49:11.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-28 08:22:57"/>
+			<int key="@@index" value="659"/>
+			<string key="duration" value="0 days 02:30:15"/>
+			<string key="starttime" value="2011-06-28 05:52:42"/>
+			<date key="time:timestamp" value="2011-06-28T05:52:42.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-24"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-24 03:03:55"/>
+			<int key="@@index" value="447"/>
+			<string key="duration" value="0 days 03:03:55"/>
+			<string key="starttime" value="2011-06-24 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-24T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-24 03:06:18"/>
+			<int key="@@index" value="448"/>
+			<string key="duration" value="0 days 00:02:08"/>
+			<string key="starttime" value="2011-06-24 03:04:10"/>
+			<date key="time:timestamp" value="2011-06-24T03:04:10.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-24 06:42:47"/>
+			<int key="@@index" value="449"/>
+			<string key="duration" value="0 days 03:36:14"/>
+			<string key="starttime" value="2011-06-24 03:06:33"/>
+			<date key="time:timestamp" value="2011-06-24T03:06:33.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-24 06:47:03"/>
+			<int key="@@index" value="450"/>
+			<string key="duration" value="0 days 00:03:58"/>
+			<string key="starttime" value="2011-06-24 06:43:05"/>
+			<date key="time:timestamp" value="2011-06-24T06:43:05.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-24 08:32:25"/>
+			<int key="@@index" value="451"/>
+			<string key="duration" value="0 days 01:45:06"/>
+			<string key="starttime" value="2011-06-24 06:47:19"/>
+			<date key="time:timestamp" value="2011-06-24T06:47:19.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-29"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-29 02:58:54"/>
+			<int key="@@index" value="714"/>
+			<string key="duration" value="0 days 02:58:54"/>
+			<string key="starttime" value="2011-06-29 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-29T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-29 03:02:18"/>
+			<int key="@@index" value="715"/>
+			<string key="duration" value="0 days 00:03:06"/>
+			<string key="starttime" value="2011-06-29 02:59:12"/>
+			<date key="time:timestamp" value="2011-06-29T02:59:12.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-06-29 05:58:06"/>
+			<int key="@@index" value="716"/>
+			<string key="duration" value="0 days 02:55:28"/>
+			<string key="starttime" value="2011-06-29 03:02:38"/>
+			<date key="time:timestamp" value="2011-06-29T03:02:38.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-29 06:02:49"/>
+			<int key="@@index" value="717"/>
+			<string key="duration" value="0 days 00:03:52"/>
+			<string key="starttime" value="2011-06-29 05:58:57"/>
+			<date key="time:timestamp" value="2011-06-29T05:58:57.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-29 07:37:00"/>
+			<int key="@@index" value="718"/>
+			<string key="duration" value="0 days 01:33:20"/>
+			<string key="starttime" value="2011-06-29 06:03:40"/>
+			<date key="time:timestamp" value="2011-06-29T06:03:40.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-7-7"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-07 03:35:18"/>
+			<int key="@@index" value="1122"/>
+			<string key="duration" value="0 days 03:35:18"/>
+			<string key="starttime" value="2011-07-07 00:00:00"/>
+			<date key="time:timestamp" value="2011-07-07T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-07 03:39:14"/>
+			<int key="@@index" value="1123"/>
+			<string key="duration" value="0 days 00:03:11"/>
+			<string key="starttime" value="2011-07-07 03:36:03"/>
+			<date key="time:timestamp" value="2011-07-07T03:36:03.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-07-07 06:37:32"/>
+			<int key="@@index" value="1124"/>
+			<string key="duration" value="0 days 02:58:09"/>
+			<string key="starttime" value="2011-07-07 03:39:23"/>
+			<date key="time:timestamp" value="2011-07-07T03:39:23.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-07-07 06:41:12"/>
+			<int key="@@index" value="1125"/>
+			<string key="duration" value="0 days 00:03:12"/>
+			<string key="starttime" value="2011-07-07 06:38:00"/>
+			<date key="time:timestamp" value="2011-07-07T06:38:00.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-07-07 08:00:30"/>
+			<int key="@@index" value="1126"/>
+			<string key="duration" value="0 days 01:19:05"/>
+			<string key="starttime" value="2011-07-07 06:41:25"/>
+			<date key="time:timestamp" value="2011-07-07T06:41:25.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-30"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-30 02:38:18"/>
+			<int key="@@index" value="764"/>
+			<string key="duration" value="0 days 02:38:18"/>
+			<string key="starttime" value="2011-06-30 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-30T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-30 02:40:52"/>
+			<int key="@@index" value="765"/>
+			<string key="duration" value="0 days 00:02:18"/>
+			<string key="starttime" value="2011-06-30 02:38:34"/>
+			<date key="time:timestamp" value="2011-06-30T02:38:34.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-30 07:41:16"/>
+			<int key="@@index" value="766"/>
+			<string key="duration" value="0 days 05:00:12"/>
+			<string key="starttime" value="2011-06-30 02:41:04"/>
+			<date key="time:timestamp" value="2011-06-30T02:41:04.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-30 07:45:00"/>
+			<int key="@@index" value="767"/>
+			<string key="duration" value="0 days 00:03:07"/>
+			<string key="starttime" value="2011-06-30 07:41:53"/>
+			<date key="time:timestamp" value="2011-06-30T07:41:53.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="M018"/>
+			<string key="endtime" value="2011-06-30 08:57:01"/>
+			<int key="@@index" value="776"/>
+			<string key="duration" value="0 days 00:00:57"/>
+			<string key="starttime" value="2011-06-30 08:56:04"/>
+			<date key="time:timestamp" value="2011-06-30T08:56:04.000+01:00"/>
+			<string key="concept:name" value="Dress"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-30 09:02:59"/>
+			<int key="@@index" value="777"/>
+			<string key="duration" value="0 days 00:05:57"/>
+			<string key="starttime" value="2011-06-30 08:57:02"/>
+			<date key="time:timestamp" value="2011-06-30T08:57:02.000+01:00"/>
+			<string key="concept:name" value="Groom"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-30 23:34:32"/>
+			<int key="@@index" value="808"/>
+			<string key="duration" value="0 days 01:47:59"/>
+			<string key="starttime" value="2011-06-30 21:46:33"/>
+			<date key="time:timestamp" value="2011-06-30T21:46:33.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-21"/>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-21 00:15:37"/>
+			<int key="@@index" value="314"/>
+			<string key="duration" value="0 days 00:15:37"/>
+			<string key="starttime" value="2011-06-21 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-21T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-21 00:16:36"/>
+			<int key="@@index" value="315"/>
+			<string key="duration" value="0 days 00:00:49"/>
+			<string key="starttime" value="2011-06-21 00:15:47"/>
+			<date key="time:timestamp" value="2011-06-21T00:15:47.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-21 03:47:28"/>
+			<int key="@@index" value="316"/>
+			<string key="duration" value="0 days 03:30:42"/>
+			<string key="starttime" value="2011-06-21 00:16:46"/>
+			<date key="time:timestamp" value="2011-06-21T00:16:46.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-21 03:50:11"/>
+			<int key="@@index" value="317"/>
+			<string key="duration" value="0 days 00:02:16"/>
+			<string key="starttime" value="2011-06-21 03:47:55"/>
+			<date key="time:timestamp" value="2011-06-21T03:47:55.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-21 08:58:52"/>
+			<int key="@@index" value="318"/>
+			<string key="duration" value="0 days 05:08:19"/>
+			<string key="starttime" value="2011-06-21 03:50:33"/>
+			<date key="time:timestamp" value="2011-06-21T03:50:33.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-21 09:04:18"/>
+			<int key="@@index" value="319"/>
+			<string key="duration" value="0 days 00:02:25"/>
+			<string key="starttime" value="2011-06-21 09:01:53"/>
+			<date key="time:timestamp" value="2011-06-21T09:01:53.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-21 09:04:53"/>
+			<int key="@@index" value="320"/>
+			<string key="duration" value="0 days 00:00:34"/>
+			<string key="starttime" value="2011-06-21 09:04:19"/>
+			<date key="time:timestamp" value="2011-06-21T09:04:19.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-21 09:47:35"/>
+			<int key="@@index" value="321"/>
+			<string key="duration" value="0 days 00:39:31"/>
+			<string key="starttime" value="2011-06-21 09:08:04"/>
+			<date key="time:timestamp" value="2011-06-21T09:08:04.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-21 23:59:59"/>
+			<int key="@@index" value="353"/>
+			<string key="duration" value="0 days 02:41:24"/>
+			<string key="starttime" value="2011-06-21 21:18:35"/>
+			<date key="time:timestamp" value="2011-06-21T21:18:35.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+	<trace>
+		<string key="concept:name" value="2011-6-17"/>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-06-17 04:35:20"/>
+			<int key="@@index" value="104"/>
+			<string key="duration" value="0 days 04:35:20"/>
+			<string key="starttime" value="2011-06-17 00:00:00"/>
+			<date key="time:timestamp" value="2011-06-17T00:00:00.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-17 04:38:44"/>
+			<int key="@@index" value="105"/>
+			<string key="duration" value="0 days 00:03:01"/>
+			<string key="starttime" value="2011-06-17 04:35:43"/>
+			<date key="time:timestamp" value="2011-06-17T04:35:43.000+01:00"/>
+			<string key="concept:name" value="Bed_Toilet_Transition"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-17 08:22:40"/>
+			<int key="@@index" value="106"/>
+			<string key="duration" value="0 days 03:43:25"/>
+			<string key="starttime" value="2011-06-17 04:39:15"/>
+			<date key="time:timestamp" value="2011-06-17T04:39:15.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-17 08:26:20"/>
+			<int key="@@index" value="107"/>
+			<string key="duration" value="0 days 00:03:14"/>
+			<string key="starttime" value="2011-06-17 08:23:06"/>
+			<date key="time:timestamp" value="2011-06-17T08:23:06.000+01:00"/>
+			<string key="concept:name" value="Toilet"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA013"/>
+			<string key="endtime" value="2011-06-17 08:28:10"/>
+			<int key="@@index" value="108"/>
+			<string key="duration" value="0 days 00:00:49"/>
+			<string key="starttime" value="2011-06-17 08:27:21"/>
+			<date key="time:timestamp" value="2011-06-17T08:27:21.000+01:00"/>
+			<string key="concept:name" value="Morning_Meds"/>
+		</event>
+		<event>
+			<string key="sensor" value="MA020"/>
+			<string key="endtime" value="2011-06-17 09:52:42"/>
+			<int key="@@index" value="109"/>
+			<string key="duration" value="0 days 01:22:21"/>
+			<string key="starttime" value="2011-06-17 08:30:21"/>
+			<date key="time:timestamp" value="2011-06-17T08:30:21.000+01:00"/>
+			<string key="concept:name" value="Read"/>
+		</event>
+		<event>
+			<string key="sensor" value="M021"/>
+			<string key="endtime" value="2011-06-17 23:59:59"/>
+			<int key="@@index" value="151"/>
+			<string key="duration" value="0 days 01:11:07"/>
+			<string key="starttime" value="2011-06-17 22:48:52"/>
+			<date key="time:timestamp" value="2011-06-17T22:48:52.000+01:00"/>
+			<string key="concept:name" value="Sleep"/>
+		</event>
+	</trace>
+</log>
